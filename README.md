@@ -119,12 +119,13 @@ https://github.com/detectRecog/CCPD
 
 ## 预测效果
 sample1  
-![image]()  
+![image](https://github.com/JJASMINE22/CRNN-implemented-by-Multihead-Attention/blob/main/sample/sample1.jpg)  
 
 sample2  
-![image]() 
+![image](https://github.com/JJASMINE22/CRNN-implemented-by-Multihead-Attention/blob/main/sample/sample2.jpg)  
+
 sample3  
-![image]()  
+![image](https://github.com/JJASMINE22/CRNN-implemented-by-Multihead-Attention/blob/main/sample/sample3.jpg)  
 
 ## 参考资料  
 https://arxiv.org/pdf/1507.05717.pdf  
